@@ -1,6 +1,6 @@
 # Hi, I'm Dimitrios :)
 
-I'm an undergraduate Digital Systems student with a strong interest in secure application design, backend development, game systems, and problem-solving through code.  
+I'm a Digital Systems graduate, with a strong interest in secure application design, backend development, game systems, and problem-solving through code.  
 I enjoy building complex systems that challenge both the user and the developer; technically, logically, and creatively.
 
 ---
@@ -19,8 +19,8 @@ I enjoy building complex systems that challenge both the user and the developer;
 - Multiple game types (quizzes, logic puzzles, mysteries)
 - Designed and implemented end-to-end as my Bachelor Thesis
 
-Live version: https://brinthgame.com/
 Repository: https://github.com/diterzis/Brinth
+Live version: https://brinthgame.com/
 
 > Brinth represents my ability to design and implement a complete system from database structure to game flow and user experience.
 
@@ -33,16 +33,3 @@ Repository: https://github.com/diterzis/Brinth
 
 - **Research Methodology Paper**  
   *Machine Learning and Artificial Intelligence Algorithms in Tesla's Autonomous Vehicles*  
-
----
-
-## Current Focus
-
-- Applying for MSc programs in Computer Science-related fields  
-- Exploring advanced specialization in cybersecurity and software systems.
-
----
-
-## Personal Note
-
-I like creating games that push users to test their limits and explore different worlds, while pushing my own limits through secure software systems and thoughtful system design.
